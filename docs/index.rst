@@ -1,4 +1,4 @@
-Welcome to the Hypothesis Client's Documentation!
+Welcome to the Stickit Documentation!
 =================================================
 
 The `Hypothesis client <https://github.com/hypothesis/client>`_ is a browser-based tool for making annotations on web
