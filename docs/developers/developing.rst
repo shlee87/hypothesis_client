@@ -1,12 +1,10 @@
-Developing the Client
+How to install StickIT
 =====================
 
-This section documents how to setup a development environment for the client,
-how to run the client and its tests in a development environment,
-client coding standards and how to contribute code to the client.
+This section documents how to setup a development environment for StickIT.
 
-Setting up a Client Development Environment
--------------------------------------------
+Installing StickIT on a local machine
+-------------------------------------
 
 Prerequisites
 #############
@@ -15,20 +13,20 @@ You will need:
 
 * `git <https://git-scm.com/>`_
 * `Node.js <https://nodejs.org/en/>`_ v6.3+
-* `Yarn <https://yarnpkg.com/lang/en/>`_
+* `Amazon Web Service Account <https://aws.amazon.com>`_ 
 
 Building
 ########
 
-To build the client for development:
+To build StickIT for development:
 
 .. code-block:: sh
 
-   git clone 'https://github.com/hypothesis/client.git'
-   cd client
-   make
+   git clone 'https://github.com/shlee87/public-sticky-notes-for-open-source-textbooks.git'
+   cd public-sticky-notes-for-open-source-textbooks
+   npm run build
 
-You now have a development client built. To run your development client in
+You now have a development built. To run your development client in
 a browser you'll need a local copy of either the Hypothesis Chrome extension or
 h. Follow either :ref:`running-from-browser-ext` or
 :ref:`running-from-h` below.
