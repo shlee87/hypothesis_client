@@ -11,7 +11,7 @@ It's used by the
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Contents!!
 
    publishers/index
    developers/index
