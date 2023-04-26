@@ -2,7 +2,7 @@ For Developers
 ==============
 
 This section contains documentation for **developers** contributing code to
-the Hypothesis client.
+StickIT
 
 .. toctree::
    :maxdepth: 2
